@@ -31,8 +31,9 @@ Key finding: **Chest breathing leads to more even air distribution compared to a
 - Four trials conducted:
   - Postures: **Standing** and **Sitting**
   - EIT Belt positions: **3rd ICS** and **5th ICS**
-  - Breathing patterns: Normal, Abdominal, Chest
   - <img src="images/EITBELT.jpg" width="200">
+  - Breathing patterns: Normal, Abdominal, Chest
+    
 - Data synchronized from EIT, MoCap, and Spirometer.
 
 ### Data Acquisition & Analysis
