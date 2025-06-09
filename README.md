@@ -55,8 +55,8 @@ Key finding: **Chest breathing leads to more even air distribution compared to a
 
 - Sitting posture → **greater air presence in lungs** than standing.
 - Posture significantly affects air distribution patterns.
-  <img src="images/Sitting EIT.jpg" width="400">
-  <img src="images/Standing EIT.jpg" width="400">
+<img src="images/Sitting EIT.jpg" width="400">
+<img src="images/Standing EIT.jpg" width="400">
 
 ## Conclusion
 
