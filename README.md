@@ -32,6 +32,7 @@ Key finding: **Chest breathing leads to more even air distribution compared to a
   - Postures: **Standing** and **Sitting**
   - EIT Belt positions: **3rd ICS** and **5th ICS**
   - Breathing patterns: Normal, Abdominal, Chest
+  - <img src="images/EITBELT.jpg" width="200">
 - Data synchronized from EIT, MoCap, and Spirometer.
 
 ### Data Acquisition & Analysis
@@ -39,7 +40,7 @@ Key finding: **Chest breathing leads to more even air distribution compared to a
 - EIT images: 16 electrodes, 32x32 frame reconstruction.
 - Motion data analyzed using MATLAB and VICON Nexus.
 - Spirometer used as reference for tidal volume validation.
-<img src="images/EITBELT.jpg" width="200">
+
 
 ---
 
