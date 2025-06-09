@@ -38,9 +38,8 @@ Key finding: **Chest breathing leads to more even air distribution compared to a
 
 - EIT images: 16 electrodes, 32x32 frame reconstruction.
 - Motion data analyzed using MATLAB and VICON Nexus.
-- Volume changes calculated from MoCap data.
 - Spirometer used as reference for tidal volume validation.
-- ![data aquesion](images/EITBELT(1).jpg)
+- ![data aquesion](images/EITBELT (1).jpg)
 
 ---
 
